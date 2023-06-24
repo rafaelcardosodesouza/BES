@@ -4,10 +4,14 @@
 
 *Entretanto, pode perceber que algumas pessoas que realizaram a capacitação 1 também realizaram a capacitação 2. Você como colaborador da área de TI foi demandado para criar um algoritmo que identifique quais códigos se repetem nas duas capacitações.*
 
-### ***Passo a passo para execução do algoritmo:*
-### **
-**1. Fazer a leitura de um vetor de inteiro de 10 posições (esse vetor armazenará os códigos dos funcionários da capacitação 1).
+### *Passo a passo para execução do algoritmo:*
+### 
+1. Fazer a leitura de um vetor de inteiro de 10 posições (esse vetor armazenará os códigos dos funcionários da capacitação 1).
+
 2. Fazer a leitura de um vetor de inteiro de 10 posições (esse vetor armazenará os códigos dos funcionários da capacitação 2).
+
 3. Criar um outro vetor de 10 posições que armazenará os códigos em comum dos vetores.
+
 4. Fazer a verificação de duplicidade e armazenar no vetor.
-5. Mostrar na tela os códigos do vetor de duplicidade.**
+
+5. Mostrar na tela os códigos do vetor de duplicidade.
